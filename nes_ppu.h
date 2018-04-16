@@ -1,0 +1,6 @@
+#ifndef NES_PPU_H_INCLUDED
+#define NES_PPU_H_INCLUDED
+
+
+
+#endif // NES_PPU_H_INCLUDED
